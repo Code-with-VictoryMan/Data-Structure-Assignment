@@ -36,5 +36,3 @@ This repository was created for learning and practising fundamental Data Structu
 This is an assignment given by my professor, Nitesh Rana.
 
 
-Add tags (DSA, C, stack, queue)
-Create a professional README with badges + formatting
