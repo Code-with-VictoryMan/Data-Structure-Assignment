@@ -31,10 +31,10 @@ This repository contains implementations of basic Data Structures concepts using
 
 
 ## Purpose
-This repository is created for learning and practising fundamental Data Structures in C .
-This is a Assignment given by my professor, Nitesh Rana.
+This repository was created for learning and practising fundamental Data Structures in C.
+
+This is an assignment given by my professor, Nitesh Rana.
 
 
-Generate a cool GitHub repo name
 Add tags (DSA, C, stack, queue)
 Create a professional README with badges + formatting
