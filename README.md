@@ -11,7 +11,7 @@ Sai University Data Structure Course Assignment (Sem-2)
 Instructor: Nitesh Rana Sir
 
 
-Description: This Repo contains C programs based on fundamental Data Structures concepts like Stack and Queue. It includes implementations such as reversing a string using a stack, checking balanced parentheses, finding the next greater element, simulating a printer queue, and circular queue operations.
+This Repo contains C programs based on fundamental Data Structures concepts like Stack and Queue. It includes implementations such as reversing a string using a stack, checking balanced parentheses, finding the next greater element, simulating a printer queue, and circular queue operations.
 
 # Data Structures in C – Stack and Queue
 
